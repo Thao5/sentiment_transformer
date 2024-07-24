@@ -1,0 +1,1 @@
+" giao hàng ko đúng size bị lỗi nguyên 1 đường dài phía trước luôn "

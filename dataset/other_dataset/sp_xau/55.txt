@@ -1,0 +1,1 @@
+" shop ko phản hồi chat cho mình . khi sạc đầy pin thì không có thông báo chuyển màu xanh, máy quạt hơi rè bật số 3 thì quạt bị lật do rung mạnh quá . "
