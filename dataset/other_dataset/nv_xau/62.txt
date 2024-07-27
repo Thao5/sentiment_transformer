@@ -1,0 +1,1 @@
+Nhân viên gian lận giá cả, tính tiền sai cho khách hàng. Cần kiểm tra kỹ hóa đơn trước khi thanh toán.

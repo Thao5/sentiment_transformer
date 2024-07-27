@@ -1,0 +1,1 @@
+ camera lỗi mỗi khi zoom, cứ rung rè rè hoài ở cụm camera khi chọn zoom 2x hay chọn chế độ xóa phong ảnh nhòe không thể nào chụp được

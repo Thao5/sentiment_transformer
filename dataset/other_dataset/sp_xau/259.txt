@@ -1,0 +1,1 @@
+Loa ngoài quá nhỏ nhiều lúc có cuộc gọi đến không nghe được nhạc chuông. Pin 4000mah mà khi kiểm tra trên 3 ứng dụng về pin thì có 3000mah
