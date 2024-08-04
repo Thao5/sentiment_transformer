@@ -54,4 +54,4 @@ if st.button('Phân loại'):
         st.write(f"Độ chính xác: {conf:.2f}%")
 
     else:
-        st.write('Please enter an SMS message to classify.')
+        st.write('Vui lòng nhập đánh giá')
